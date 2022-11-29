@@ -1,0 +1,20 @@
+.body{ padding: 100px;}
+
+.botao{ 
+    background-color: rgb(38, 241, 248);
+    border-radius: 10px;
+    border: 0px solid;
+    margin-top: 40px;
+    background:linear-gradient(to bottom, #9efcff 5%, #d12aeb 100%);
+    padding:5px 31px;
+}
+
+.botao:hover{
+    background:linear-gradient(to bottom, #d12aeb 5%, #ff9efc 100%);
+	background-color:#d12aeb;
+    
+}
+
+#respostas{ 
+    color:white;
+}
